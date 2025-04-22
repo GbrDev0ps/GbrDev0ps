@@ -21,7 +21,7 @@
 
 ---
 
-### 📈 GitHub Stats *(vai aparecer depois que você subir repositórios)*
+### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GbrDev0ps&show_icons=true&theme=react&hide_title=true&count_private=true&hide=prs" alt="Gabriel's GitHub stats" />
