@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer Intern | Swift • UIKit • React Native (soon)</h3>
 
 - 🔭 Currently working as an **iOS Developer Intern at Santander**, focusing on the **Payments** area  
-- 🧠 Learning **SwiftUI** and diving into **React Native** for hybrid mobile development  
+- 🧠 Learning **SwiftUI** and diving into **Flutter** for hybrid mobile development  
 - ⚙️ Working with **Swift**, **UIKit**, **Git**, and **Agile/Scrum** methodologies  
 - 🎯 Passionate about mobile experiences and clean, maintainable code  
 - 👀 Open to opportunities for growth and full-time roles in mobile development
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-222222?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
